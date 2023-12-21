@@ -1,0 +1,20 @@
+#hero{
+    list-style:none;
+    padding: 10px 20px;
+    background-image: url(img/superhero.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+    color: blue;
+
+}
+#mechant{
+    list-style:none;
+    padding: 10px 20px;
+    background-image: url(img/oni.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+    color: red;
+
+}
